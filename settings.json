@@ -1,0 +1,14 @@
+{
+    "microsoft-vision-api-key": [
+        {
+            "value": "",
+            "end-point": ""
+        }
+    ],
+    "studio-ai-google-api-key": [
+       
+    ],
+    "google-cloud-api-key": [
+       
+    ]
+}
